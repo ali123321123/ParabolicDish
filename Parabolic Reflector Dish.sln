@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parabolic Reflector Dish", "Parabolic Reflector Dish\Parabolic Reflector Dish.csproj", "{DE57737C-0581-4C16-992D-0AFBCA4CC2BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE57737C-0581-4C16-992D-0AFBCA4CC2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE57737C-0581-4C16-992D-0AFBCA4CC2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE57737C-0581-4C16-992D-0AFBCA4CC2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE57737C-0581-4C16-992D-0AFBCA4CC2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

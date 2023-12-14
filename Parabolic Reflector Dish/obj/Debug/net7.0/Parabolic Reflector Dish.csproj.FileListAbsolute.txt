@@ -1,0 +1,14 @@
+C:\testutvikling\Parabolic Reflector Dish\Parabolic Reflector Dish\bin\Debug\net7.0\Parabolic Reflector Dish.exe
+C:\testutvikling\Parabolic Reflector Dish\Parabolic Reflector Dish\bin\Debug\net7.0\Parabolic Reflector Dish.deps.json
+C:\testutvikling\Parabolic Reflector Dish\Parabolic Reflector Dish\bin\Debug\net7.0\Parabolic Reflector Dish.runtimeconfig.json
+C:\testutvikling\Parabolic Reflector Dish\Parabolic Reflector Dish\bin\Debug\net7.0\Parabolic Reflector Dish.dll
+C:\testutvikling\Parabolic Reflector Dish\Parabolic Reflector Dish\bin\Debug\net7.0\Parabolic Reflector Dish.pdb
+C:\testutvikling\Parabolic Reflector Dish\Parabolic Reflector Dish\obj\Debug\net7.0\Parabolic Reflector Dish.GeneratedMSBuildEditorConfig.editorconfig
+C:\testutvikling\Parabolic Reflector Dish\Parabolic Reflector Dish\obj\Debug\net7.0\Parabolic Reflector Dish.AssemblyInfoInputs.cache
+C:\testutvikling\Parabolic Reflector Dish\Parabolic Reflector Dish\obj\Debug\net7.0\Parabolic Reflector Dish.AssemblyInfo.cs
+C:\testutvikling\Parabolic Reflector Dish\Parabolic Reflector Dish\obj\Debug\net7.0\Parabolic Reflector Dish.csproj.CoreCompileInputs.cache
+C:\testutvikling\Parabolic Reflector Dish\Parabolic Reflector Dish\obj\Debug\net7.0\Parabolic Reflector Dish.dll
+C:\testutvikling\Parabolic Reflector Dish\Parabolic Reflector Dish\obj\Debug\net7.0\refint\Parabolic Reflector Dish.dll
+C:\testutvikling\Parabolic Reflector Dish\Parabolic Reflector Dish\obj\Debug\net7.0\Parabolic Reflector Dish.pdb
+C:\testutvikling\Parabolic Reflector Dish\Parabolic Reflector Dish\obj\Debug\net7.0\Parabolic Reflector Dish.genruntimeconfig.cache
+C:\testutvikling\Parabolic Reflector Dish\Parabolic Reflector Dish\obj\Debug\net7.0\ref\Parabolic Reflector Dish.dll
