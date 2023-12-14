@@ -9,7 +9,7 @@ public class ParabolicDish
 
     public static void Main(string[] args)
     {
-        var lines = File.ReadAllLines(@"C:\testutvikling\Parabolic Reflector Dish\Parabolic Reflector Dish\input.txt");
+        var lines = File.ReadAllLines("../../../input.txt");
         _width = lines[0].Length;
         _height = lines.Length;
 
