@@ -90,14 +90,22 @@ public class ParabolicDish
 
     private static char[][] CreateMap(string[] lines)
     {
+        if (lines == null || lines.Length == 0)
+            throw new ArgumentException("lines array is null or empty.");
+
+        _height = lines.Length;
+        _width = lines[0].Length;
+
         var map = new char[_height][];
         for (int y = 0; y < lines.Length; y++)
         {
+            if (lines[y] == null || lines[y].Length != _width)
+                throw new ArgumentException($"Line {y} is null or of incorrect length.");
+
             map[y] = new char[_width];
-            var line = lines[y];
-            for (int x = 0; x < line.Length; x++)
+            for (int x = 0; x < lines[y].Length; x++)
             {
-                map[y][x] = line[x];
+                map[y][x] = lines[y][x];
             }
         }
         return map;
